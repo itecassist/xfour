@@ -1,0 +1,11 @@
+id,first_name,last_name,date_of_birth,employee_number,salary,role_designation,reports_to
+1,Adam,Adams,01-02-2001,A1,120000,Trainee,3
+2,Ben,Burger,12-02-1990,B1,700000,Manager,0
+3,Carol,Cronje,21-06-2002,C1,200000,Employee,2
+4,Daan,De Wet,09-11-2005,D1,240000,Employee,3
+5,Eben,Erasmus,30-10-2008,E1,100000,Trainee,4
+6,Fanie,Fourie,10-09-2003,F1,900000,Manager,0
+7,Gert,Grobler,07-12-1972,G1,235000,Employee,6
+8,Hans,Harmse,13-05-1985,H1,312000,Employee,6
+9,Ina,Irish,17-07-1999,I1,72000,Trainee,8
+10,Jan,Jordaan,29-11-2003,J1,85000,Trainee,7

@@ -1,0 +1,15 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "List / Search Employees",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stuart Harrison",
+  "license": "ISC"
+}
